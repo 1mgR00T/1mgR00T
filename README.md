@@ -1,7 +1,7 @@
 <div align="center">
 	<img width="50%" src="https://i.imgur.com/DAx41Cg.gif" />
 	<hr />
-	<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=1mgR00T" /> <br />
+	<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Lalezar&size=30&color=148ddf&center=true&vCenter=true&width=440&lines=1mgR00T" /> <br />
 	<p>Good Night</p>
 	<br />
   <br />
