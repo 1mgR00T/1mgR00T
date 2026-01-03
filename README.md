@@ -12,8 +12,8 @@
 	<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/IDE-Visual_Studio_Code-blue?style=flat&logo=visual%20studio%20code" /></a>
   <br />
 	<a href="https://github.com/1mgR00T"><img src="https://img.shields.io/github/followers/1mgR00T?label=Github&style=social" /></a>
-	<a href="mailto:nulz404@proton.me"><img src="https://img.shields.io/badge/Email-1mgR00T@gmail.com-e06c75?style=social&logo=gmail" /></a>
-	<a href="https://t.me/Erking_171"><img src="https://img.shields.io/badge/Telegram-@1mgR00T-e06c75?style=social&logo=telegram" /></a>
+	<a href="mailto:benjamin@proton.me"><img src="https://img.shields.io/badge/Email-1mgR00T@gmail.com-e06c75?style=social&logo=gmail" /></a>
+	<a href="https://t.me/imgrxxt"><img src="https://img.shields.io/badge/Telegram-@1mgR00T-e06c75?style=social&logo=telegram" /></a>
 	<br />
 
   <div align="center">
